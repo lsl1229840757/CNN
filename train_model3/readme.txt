@@ -1,0 +1,1 @@
+训练到了第318个epoch,迭代了7925次,Training Accruracy 0.8125,Validation Accruacy0.78125,损失0.5410408973693848
